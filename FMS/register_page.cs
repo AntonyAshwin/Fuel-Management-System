@@ -18,7 +18,7 @@ namespace FMS
         {
             InitializeComponent();
         }
-        public string conn_string = @"Data Source=LAPTOP-27T565KJ\SQLEXPRESS;Initial Catalog=dbms_miniproject;Persist Security Info=True;User ID=root;Password="yourpassword";
+        public string conn_string = @"Data Source=LAPTOP-27T565KJ\SQLEXPRESS;Initial Catalog=dbms_miniproject;Persist Security Info=True;User ID=root;Password=yourpassword";
         SqlCommand cmd;
         
         private void register_page_Load(object sender, EventArgs e)
