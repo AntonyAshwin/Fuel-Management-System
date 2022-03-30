@@ -15,7 +15,7 @@ namespace FMS
     public partial class invoice_page : UserControl
     {
 
-        public static string conn = @"Data Source=LAPTOP-27T565KJ\SQLEXPRESS;Initial Catalog=dbms_miniproject;Persist Security Info=True;User ID=root;Password=1234567Aa";
+        public static string conn = @"Data Source=LAPTOP-27T565KJ\SQLEXPRESS;Initial Catalog=dbms_miniproject;Persist Security Info=True;User ID=root;Password=yourpassword";
 
         SqlConnection con = new SqlConnection(conn);
         public string g_id { get; set; }
