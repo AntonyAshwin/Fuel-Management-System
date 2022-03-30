@@ -13,7 +13,7 @@ namespace FMS
 {
     public partial class options_page : UserControl
     {
-        public string conn_string = @"Data Source=LAPTOP-27T565KJ\SQLEXPRESS;Initial Catalog=dbms_miniproject;Persist Security Info=True;User ID=root;Password=1234567Aa";
+        public string conn_string = @"Data Source=LAPTOP-27T565KJ\SQLEXPRESS;Initial Catalog=dbms_miniproject;Persist Security Info=True;User ID=root;Password=yourpasword";
      
         SqlCommand cmd;
         public void clear_text()
