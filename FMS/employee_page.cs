@@ -27,7 +27,7 @@ namespace FMS
 
         double salary;
 
-        string con_string = @"Data Source=LAPTOP-27T565KJ\SQLEXPRESS;Initial Catalog=dbms_miniproject;Persist Security Info=True;User ID=root;Password=1234567Aa";
+        string con_string = @"Data Source=LAPTOP-27T565KJ\SQLEXPRESS;Initial Catalog=dbms_miniproject;Persist Security Info=True;User ID=root;Password=yourpassword";
         SqlConnection conn = new SqlConnection(@"Data Source=LAPTOP-27T565KJ\SQLEXPRESS;Initial Catalog=dbms_miniproject;Persist Security Info=True;User ID=root;Password=1234567Aa");
         SqlCommand cmd;
         private void employee_page_Load(object sender, EventArgs e)
