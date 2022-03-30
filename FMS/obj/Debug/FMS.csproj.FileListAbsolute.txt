@@ -1,0 +1,17 @@
+C:\Users\91968\source\repos\FMS\bin\Debug\FMS.exe.config
+C:\Users\91968\source\repos\FMS\bin\Debug\FMS.exe
+C:\Users\91968\source\repos\FMS\bin\Debug\FMS.pdb
+C:\Users\91968\source\repos\FMS\obj\Debug\FMS.Properties.Resources.resources
+C:\Users\91968\source\repos\FMS\obj\Debug\FMS.csproj.GenerateResource.cache
+C:\Users\91968\source\repos\FMS\obj\Debug\FMS.csproj.CoreCompileInputs.cache
+C:\Users\91968\source\repos\FMS\obj\Debug\FMS.exe
+C:\Users\91968\source\repos\FMS\obj\Debug\FMS.pdb
+C:\Users\91968\source\repos\FMS\obj\Debug\FMS.login_prompt.resources
+C:\Users\91968\source\repos\FMS\obj\Debug\FMS.Menuform.resources
+C:\Users\91968\source\repos\FMS\obj\Debug\FMS.home_page.resources
+C:\Users\91968\source\repos\FMS\obj\Debug\FMS.register_page.resources
+C:\Users\91968\source\repos\FMS\obj\Debug\FMS.employee_page.resources
+C:\Users\91968\source\repos\FMS\obj\Debug\FMS.supplier_page.resources
+C:\Users\91968\source\repos\FMS\obj\Debug\FMS.invoice_page.resources
+C:\Users\91968\source\repos\FMS\obj\Debug\FMS.options_page.resources
+C:\Users\91968\source\repos\FMS\obj\Debug\FMS.Adminform.resources

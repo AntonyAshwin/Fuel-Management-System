@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FMS", "FMS.csproj", "{8657BA66-D40E-4191-9FEE-E2171BF0AC58}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "FMS_Setup", "..\FMS_Setup\FMS_Setup.vdproj", "{10F2A105-4EEB-449D-8C3F-FDA620F1EE0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8657BA66-D40E-4191-9FEE-E2171BF0AC58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8657BA66-D40E-4191-9FEE-E2171BF0AC58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8657BA66-D40E-4191-9FEE-E2171BF0AC58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8657BA66-D40E-4191-9FEE-E2171BF0AC58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10F2A105-4EEB-449D-8C3F-FDA620F1EE0D}.Debug|Any CPU.ActiveCfg = Release
+		{10F2A105-4EEB-449D-8C3F-FDA620F1EE0D}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {680C7541-E2BB-4513-BF8F-8465BE40199F}
+	EndGlobalSection
+EndGlobal
